@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "605407936294",
+    "project_id": "fquiz-ed12f",
+    "storage_bucket": "fquiz-ed12f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605407936294:android:e1f5f1c5aa6297131d0be7",
+        "android_client_info": {
+          "package_name": "com.fquiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "605407936294-ak9gdvl6g7ipm6ttkofsuk7jhr3uja16.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fquiz",
+            "certificate_hash": "6fb922adf029b0f0a1738ad579f614a44fbecd3b"
+          }
+        },
+        {
+          "client_id": "605407936294-662vcc0pssl1ubfkb560bli4u6d3fv2u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcPYOgpmWcZTB4B0hwfAC5_svAQRI1p5A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "605407936294-662vcc0pssl1ubfkb560bli4u6d3fv2u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
